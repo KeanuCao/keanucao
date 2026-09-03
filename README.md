@@ -40,6 +40,7 @@
 | 项目 | 说明 | 技术点 | 状态 |
 |------|------|--------|------|
 | [程序员日记](https://github.com/KeanuCao/developer-diary) | 程序员的日志，记录杂七杂八和编程有关的事情 | Markdown | 持续更新 |
+| [nexus-agent-workbench](https://github.com/KeanuCao/nexus-agent-workbench) | Java 全栈演示项目：统一 AI 网关 + RAG 知识库问答 | Java 17 · Spring Boot 3 · Vue 3 · PostgreSQL + pgvector · Redis · Docker Compose | 开发中 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |

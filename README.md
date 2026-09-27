@@ -1,6 +1,6 @@
 # 👋 你好，我是曹檀
 
-一名写了 20 多年代码的工程师，目前专注于 **AI 辅助研发** 。
+一名写了 20 多年代码的工程师，目前专注于 **AI Native研发** 。
 
 我的职业生涯大致可以分成三段：
 - 在 **思科** 待了 17 年，从测试开发到全球三级客户疑难问题升级处理，见过真正的大规模生产环境。
@@ -21,10 +21,10 @@
 
 ### 技术核心
 - **Python**：这是我的主力语言，写过分布式执行引擎、全栈工具、自动化脚本，也用它做 AI 辅助研发的工程化落地。
-- **AI-Assisted Development**：深度使用 Claude Code / DeepSeek，通过 Context Engineering 和系统级约束，让 AI 生成代码的直接采纳率达到 **95% 以上**。
-- **系统架构**：设计过分布式执行引擎，用过 Raft 做组件选型，熟悉多进程/多线程、IPC、反射机制。
-- **UI 自动化与 CV**：精通 Selenium、Windows UIA、Linux AT-SPI，也把 OpenCV/PaddleOCR 用在真实录制回放场景里。
-- **其他**：Java（Spring）、C++（Qt）能维护和迭代，会 Docker、Jenkins，做过信创适配。
+- **AI-Native Engineering**：深度使用 Claude Code / DeepSeek，通过Harness方法来探索AI Native研发范式。
+- **系统架构**：设计过分布式执行引擎，用过 Raft 做组件选型，熟悉多进程/多线程、IPC/RPC、反射机制。
+- **UI 自动化与 CV**：精通 Playwright、Selenium、Windows UIA、Linux AT-SPI，也把 OpenCV/PaddleOCR 用在真实录制回放场景里。
+- **其他**：Java（Spring）、C++（Qt）维护和迭代， Docker、Jenkins，做过信创适配。
 
 ### 我能独立解决的事
 - 从零搭建一套自动化测试/巡检体系
@@ -41,6 +41,7 @@
 |------|------|--------|------|
 | [程序员日记](https://github.com/KeanuCao/developer-diary) | 程序员的日志，记录杂七杂八和编程有关的事情 | Markdown | 持续更新 |
 | [nexus-agent-workbench](https://github.com/KeanuCao/nexus-agent-workbench) | Java 全栈演示项目：统一 AI 网关 + RAG 知识库问答 | Java 17 · Spring Boot 3 · Vue 3 · PostgreSQL + pgvector · Redis · Docker Compose | 开发中 |
+| [resume-gen](https://github.com/KeanuCao/resume-gen) | Markdown 简历转 PDF 的 Windows 桌面小工具：拖入 .md 一键出排版好的 PDF（现成工具都不合心意，索性自己写了一个） | Python · PyQt6 · pandoc + XeLaTeX | 可用 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |

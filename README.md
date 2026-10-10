@@ -42,6 +42,7 @@
 | [程序员日记](https://github.com/KeanuCao/developer-diary) | 程序员的日志，记录杂七杂八和编程有关的事情 | Markdown | 持续更新 |
 | [nexus-agent-workbench](https://github.com/KeanuCao/nexus-agent-workbench) | Java 全栈演示项目：统一 AI 网关 + RAG 知识库问答 | Java 17 · Spring Boot 3 · Vue 3 · PostgreSQL + pgvector · Redis · Docker Compose | 开发中 |
 | [resume-gen](https://github.com/KeanuCao/resume-gen) | Markdown 简历转 PDF 的 Windows 桌面小工具：拖入 .md 一键出排版好的 PDF（现成工具都不合心意，索性自己写了一个） | Python · PyQt6 · pandoc + XeLaTeX | 可用 |
+| [python-cli-tools](https://github.com/KeanuCao/python-cli-tools) | Python 命令行工具合集，每个工具都能独立部署。| Python · rembg (ONNX Runtime) · OpenCV · Pillow | 持续更新 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
